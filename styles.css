@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Styling the list with custom tokens */
+.custom-list {
+    list-style: url('your-image.png') inside;
+}
+
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
