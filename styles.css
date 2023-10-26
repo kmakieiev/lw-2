@@ -1,6 +1,3 @@
-/* styles.css */
-
-/* Styling the list with custom tokens */
 .custom-list {
     list-style: url('swift.jpg') inside;
 }
